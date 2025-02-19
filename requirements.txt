@@ -310,8 +310,6 @@ numba-cuda==0.0.17.1
 numexpr==2.10.2
 numpy==1.26.4
 nvidia-cublas-cu12==12.5.3.2
-nvidia-cuda-cupti-cu12==12.5.82
-nvidia-cuda-nvcc-cu12==12.5.82
 nvidia-cudnn-cu12==9.3.0.75
 nvidia-cufft-cu12==11.2.3.61
 nvidia-curand-cu12==10.3.6.82
@@ -572,4 +570,3 @@ yellowbrick==1.5
 yfinance==0.2.52
 zipp==3.21.0
 zstandard==0.23.0
-nvidia-cuda-runtime-cu12==12.4.127
